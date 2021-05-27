@@ -1,6 +1,6 @@
-## Welcome to GitHub Pages
+## Práctica 1, Github
 
-You can use the [editor on GitHub](https://github.com/sayvargas/Practica1Sayri/edit/main/docs/index.md) to maintain and preview the content for your website in Markdown files.
+Página de Sayri Sofia, 3ro "A"
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
